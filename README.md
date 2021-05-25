@@ -6,7 +6,10 @@ A starter template for very simple projects (no frameworks) with [Tailwind CSS](
 
 ## Table of Contents
 
-- [Installation](https://github.com/vikasganiga05/tailwind-vite-starter#Installation)
+- [Installation](https://github.com/vikasganiga05/tailwind-vite-starter#installation)
+- [Development](https://github.com/vikasganiga05/tailwind-vite-starter#development)
+- [Production](https://github.com/vikasganiga05/tailwind-vite-starter#production)
+- [License](https://github.com/vikasganiga05/tailwind-vite-starter#license)
 
 ## Installation
 
@@ -42,7 +45,7 @@ $ npm install
 npm run dev
 ```
 
-Open [http://localhost:8080](http://localhost:3000/) to view it in the browser. The page will reload if you make file changes.
+Open [http://localhost:3000](http://localhost:3000/) to view it in the browser. The page will reload if you make file changes.
 
 You can play around with `/src/index.html` to see the effects of your changes.
 
@@ -58,7 +61,7 @@ npm run build
 npm run serve
 ```
 
-Open [http://localhost:8080](http://localhost:5000/) to view it in the browser. Your code is now ready to be deployed!
+Open [http://localhost:5000](http://localhost:5000/) to view it in the browser. Your code is now ready to be deployed!
 
 ## License
 
