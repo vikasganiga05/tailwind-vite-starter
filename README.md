@@ -4,6 +4,8 @@
 
 A starter template for very simple projects (no frameworks) with [Tailwind CSS](http://tailwindcss.com/) setup as a [PostCSS](https://postcss.org/) plugin. The [Vite](https://vitejs.dev/) made it easy to compile and optimize Tailwind for both development and production.
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/vikasganiga05/tailwind-vite-starter)
+
 ## Table of Contents
 
 - [Installation](https://github.com/vikasganiga05/tailwind-vite-starter#installation)
@@ -31,7 +33,7 @@ $ gh repo clone vikasganiga05/tailwind-vite-starter
 $ git clone https://github.com/vikasganiga05/tailwind-vite-starter.git
 ```
 
-After cloning the repository, 
+After cloning the repository,
 
 ```bash
 $ cd tailwind-vite-starter
