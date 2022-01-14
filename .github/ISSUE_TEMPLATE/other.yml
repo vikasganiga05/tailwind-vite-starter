@@ -1,0 +1,29 @@
+name: Other
+description: Use this for any other issues. Please do NOT create blank issues
+title: '[OTHER] <description>'
+body:
+  - type: markdown
+    attributes:
+      value: '# Other issue'
+
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this other issue report 🤗
+        Make sure there aren't any open/closed issues for this topic 😃
+
+  - type: textarea
+    id: issue-description
+    attributes:
+      label: What would you like to share?
+      description: Provide a clear and concise explanation of your issue.
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional information
+      description: Is there anything else we should know about this issue?
+    validations:
+      required: false
