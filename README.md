@@ -75,3 +75,13 @@ Open [http://localhost:5000](http://localhost:5000/) to view it in the browser. 
 ## 🛡️ License
 
 LinkFree is licensed under the MIT License - see the [`LICENSE`](https://github.com/vikasganiga05/tailwind-vite-starter/blob/master/LICENSE) file for details.
+
+## 💪 Thanks to all Contributors
+
+Thanks a lot for spending your time helping LinkFree grow. Thanks a lot! Keep rocking 🍻
+
+[![Contributors](https://contrib.rocks/image?repo=vikasganiga05/tailwind-vite-starter)](https://github.com/vikasganiga05/tailwind-vite-starter/graphs/contributors)
+
+## 🙏 Support
+
+This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
