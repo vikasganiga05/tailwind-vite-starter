@@ -65,6 +65,12 @@ npm run serve
 
 Open [http://localhost:5000](http://localhost:5000/) to view it in the browser. Your code is now ready to be deployed!
 
+## 👨‍💻 Contributing
+
+- Contributions make the open source community such an amazing place to learn, inspire, and create.
+- Any contributions you make are **greatly appreciated**.
+- Check out our [contribution guidelines](https://github.com/vikasganiga05/tailwind-vite-starter/blob/main/CONTRIBUTING.md) for more information.
+
 ## License
 
 This project is open source and available under the [MIT License](https://github.com/vikasganiga05/tailwind-vite-starter/blob/master/LICENSE).
