@@ -11,6 +11,7 @@ A starter template for very simple projects (no frameworks) with [Tailwind CSS](
 - [Installation](https://github.com/vikasganiga05/tailwind-vite-starter#installation)
 - [Development](https://github.com/vikasganiga05/tailwind-vite-starter#development)
 - [Production](https://github.com/vikasganiga05/tailwind-vite-starter#production)
+- [Contributing](https://github.com/vikasganiga05/tailwind-vite-starter#-contributing)
 - [License](https://github.com/vikasganiga05/tailwind-vite-starter#license)
 
 ## Installation
