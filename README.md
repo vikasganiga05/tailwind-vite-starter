@@ -6,14 +6,6 @@ A starter template for very simple projects (no frameworks) with [Tailwind CSS](
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/vikasganiga05/tailwind-vite-starter)
 
-## Table of Contents
-
-- [Installation](https://github.com/vikasganiga05/tailwind-vite-starter#installation)
-- [Development](https://github.com/vikasganiga05/tailwind-vite-starter#development)
-- [Production](https://github.com/vikasganiga05/tailwind-vite-starter#production)
-- [Contributing](https://github.com/vikasganiga05/tailwind-vite-starter#-contributing)
-- [License](https://github.com/vikasganiga05/tailwind-vite-starter#license)
-
 ## Installation
 
 #### SSH
