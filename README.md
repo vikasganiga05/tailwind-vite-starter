@@ -72,7 +72,9 @@ Thanks a lot for spending your time helping LinkFree grow. Thanks a lot! Keep ro
 
 ## 🙏 Support
 
-This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
+- Create a [GitHub issue](https://github.com/vikasganiga05/tailwind-vite-starter/issues) for bug reports and feature requests.
+- Follow [@vikasganiga05](https://twitter.com/vikasganiga05) for announcements.
+- Add a ⭐️ [star on GitHub](https://github.com/vikasganiga05/tailwind-vite-starter) and [![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fvikasganiga05%2Ftailwind-vite-starter%26hashtags%3Dtailwindcss%2Ctailwind%2Cvite%2Cstarter%2Ctemplate)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fvikasganiga05%2Ftailwind-vite-starter&hashtags=tailwindcss,tailwind,vite,starter,template) to support the project!
 
 ## 🛡️ License
 
