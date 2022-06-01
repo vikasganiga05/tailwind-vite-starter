@@ -64,10 +64,6 @@ Open [http://localhost:5000](http://localhost:5000/) to view it in the browser. 
 - Any contributions you make are **greatly appreciated**.
 - Check out our [contribution guidelines](https://github.com/vikasganiga05/tailwind-vite-starter/blob/main/CONTRIBUTING.md) for more information.
 
-## 🛡️ License
-
-This project is licensed under the MIT License - see the [`LICENSE`](https://github.com/vikasganiga05/tailwind-vite-starter/blob/master/LICENSE) file for details.
-
 ## 💪 Thanks to all Contributors
 
 Thanks a lot for spending your time helping LinkFree grow. Thanks a lot! Keep rocking 🍻
@@ -77,3 +73,7 @@ Thanks a lot for spending your time helping LinkFree grow. Thanks a lot! Keep ro
 ## 🙏 Support
 
 This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
+
+## 🛡️ License
+
+This project is licensed under the terms of the [MIT](https://github.com/vikasganiga05/tailwind-vite-starter/blob/main/LICENSE) license. © [Vikas Ganiga](https://github.com/vikasganiga05)
