@@ -66,7 +66,7 @@ Open [http://localhost:5000](http://localhost:5000/) to view it in the browser. 
 
 ## 💪 Thanks to all Contributors
 
-Thanks a lot for spending your time helping LinkFree grow. Thanks a lot! Keep rocking 🍻
+Thanks a lot for spending your time helping tailwind-vite-starter grow. Thanks a lot! Keep rocking 🍻
 
 [![Contributors](https://contrib.rocks/image?repo=vikasganiga05/tailwind-vite-starter)](https://github.com/vikasganiga05/tailwind-vite-starter/graphs/contributors)
 
